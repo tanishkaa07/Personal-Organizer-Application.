@@ -51,4 +51,4 @@ A Java-based GUI application that helps you organize your:
 
 ## 🙏 Acknowledgment
 
-Thanks to SOA India Internship Program for the opportunity to build this!
+Thanks to SAIndia Internship Program for the opportunity to build this!

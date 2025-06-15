@@ -35,16 +35,16 @@ A Java-based GUI application that helps you organize your:
 ## 📸 App Screenshots
 
 ### 🎂 Birthday Entry Panel
-![Birthday Panel](media/BirthdayEntry.png)
+![Birthday Panel](assets/BirthdayEntry.png)
 
 ### 💡 Idea Logger Panel
-![Idea Logger](media/IdeaLoggerPanel.png)
+![Idea Logger](assets/IdeaLoggerPanel.png)
 
 ### 🛍️ Shopping List Panel
-![Shopping List](media/ShoppingListPanel.png)
+![Shopping List](assets/ShoppingListPanel.png)
 
 ### 🎬 Watchlist Panel
-![Watchlist](media/WatchlistPanel.png)
+![Watchlist](assets/WatchlistPanel.png)
 
 
 ---

@@ -32,9 +32,20 @@ A Java-based GUI application that helps you organize your:
 
 ---
 
-## 📸 Screenshots
+## 📸 App Screenshots
 
-> Add your app screenshots here (see point 2)
+### 🎂 Birthday Entry Panel
+![Birthday Panel](media/BirthdayEntry.png)
+
+### 💡 Idea Logger Panel
+![Idea Logger](media/IdeaLoggerPanel.png)
+
+### 🛍️ Shopping List Panel
+![Shopping List](media/ShoppingListPanel.png)
+
+### 🎬 Watchlist Panel
+![Watchlist](media/WatchlistPanel.png)
+
 
 ---
 
